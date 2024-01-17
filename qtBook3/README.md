@@ -6,5 +6,4 @@ Yep! You know that, this project is a fork repo. You can find a comparison here:
 ## End
 This is a big assignment for the oop-lab class. Thank you for the reference provided by the project of [@Zhytou](https://github.com/Zhytou).
 
-## Bye
-2023 Fall semester.
+Bye for the fall 2023 semester.
